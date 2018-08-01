@@ -1,5 +1,7 @@
 import React from "react";
 
+import "./Staff.css";
+
 const Card = props => (
   <div className="card text-center">
     <div className="card-header">
